@@ -2,11 +2,53 @@
     "index.md",
     [
         "csstransition.html",
-        "csstransition-2.html",
-        "csstransition-3.md"
+        "csstransition-syntax.html",
+        "csstransition-example.html",
+        "csstransition-timing-function.html",
+        "csstransition-example-ease.html",
+        "csstransition-example-step.html",
+        "csstransition-chaining-transitions.html",
+        "csstransition-transitionend.html",
+        "csstransition-transitionend-note.html"
     ],
-    "cssanimation.md",
-    "js-animation.md",
-    "web-animations.md",
-    "smart-button.md"
+    [
+        "cssanimation.md",
+        "cssanimation-syntax.html",
+        "cssanimation-keyframes.html",
+        "cssanimation-animation-direction.html",
+        "cssanimation-animation-iteration-count.html",
+        "cssanimation-animation-fill-mode.html",
+        "cssanimation-animation-play-state.html",
+        "cssanimation-multiple-animations.html",
+        "cssanimation-events.html",
+        "cssanimation-note.html"
+    ],
+    [
+        "js-animation.md",
+        "js-animation-settimeout.html",
+        "js-animation-setinterval.html",
+        "js-animation-the-problems.html",
+        "js-animation-requestanimationframe.html",
+        "js-animation-the-good-part.html",
+        "js-animation-easing.html",
+        "js-animation-libraries.html"
+    ],
+    [
+        "performance-considerations.html",
+        "performance-good-reads.html"
+    ],
+    [
+        "web-animations.md",
+        "web-animations-inspecting-animations.html",
+        "web-animations-controlling-animations.html",
+        "web-animations-creating-animations.html",
+        "web-animations-can-i-use.html"
+    ],
+    [
+        "web-components.html",
+        "web-components-specs.html",
+        "web-components-smart-button.html",
+        "web-components-enable-web-components.html",
+        "web-components-firefox-os-tv-simulator.html"
+    ]
 ]
