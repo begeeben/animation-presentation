@@ -1,0 +1,12 @@
+[
+    "index.md",
+    [
+        "csstransition.html",
+        "csstransition-2.html",
+        "csstransition-3.md"
+    ],
+    "cssanimation.md",
+    "js-animation.md",
+    "web-animations.md",
+    "smart-button.md"
+]
