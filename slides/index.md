@@ -1,10 +1,5 @@
+## Animation, Web Components and FxOS TV
 
-# Animation
+Yi-Fan Liao
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+2015.Dec.25

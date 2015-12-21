@@ -3,9 +3,13 @@
     [
         "csstransition.html",
         "csstransition-syntax.html",
+        "csstransition-shorthand.html",
         "csstransition-example.html",
         "csstransition-timing-function.html",
         "csstransition-example-ease.html",
+        "csstransition-cubic-bezier.html",
+        "csstransition-cheat-sheet.html",
+        "csstransition-step.html",
         "csstransition-example-step.html",
         "csstransition-chaining-transitions.html",
         "csstransition-transitionend.html",
@@ -35,7 +39,10 @@
     ],
     [
         "performance-considerations.html",
-        "performance-good-reads.html"
+        "performance-good-reads.html",
+        "performance-jank-free.html",
+        "performance-css-triggers.html",
+        "performance-css-vs-js.html"
     ],
     [
         "web-animations.md",
@@ -46,7 +53,7 @@
     ],
     [
         "web-components.html",
-        "web-components-specs.html",
+        "web-components-yet.html",
         "web-components-smart-button.html",
         "web-components-enable-web-components.html",
         "web-components-firefox-os-tv-simulator.html"
