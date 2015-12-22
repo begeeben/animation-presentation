@@ -11,21 +11,21 @@
         "csstransition-cheat-sheet.html",
         "csstransition-step.html",
         "csstransition-example-step.html",
-        "csstransition-chaining-transitions.html",
         "csstransition-transitionend.html",
-        "csstransition-transitionend-note.html"
+        "csstransition-transitionend-example.html",
+        "csstransition-transitionend-note.html",
+        "csstransition-chaining-transitions.html"
     ],
     [
-        "cssanimation.md",
-        "cssanimation-syntax.html",
+        "cssanimation.html",
+        "cssanimation-shorthand.html",
         "cssanimation-keyframes.html",
         "cssanimation-animation-direction.html",
-        "cssanimation-animation-iteration-count.html",
         "cssanimation-animation-fill-mode.html",
         "cssanimation-animation-play-state.html",
         "cssanimation-multiple-animations.html",
         "cssanimation-events.html",
-        "cssanimation-note.html"
+        "cssanimation-practice.html"
     ],
     [
         "js-animation.md",
