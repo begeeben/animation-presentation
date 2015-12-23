@@ -29,20 +29,19 @@
     ],
     [
         "js-animation.md",
-        "js-animation-settimeout.html",
-        "js-animation-setinterval.html",
-        "js-animation-the-problems.html",
         "js-animation-requestanimationframe.html",
-        "js-animation-the-good-part.html",
+        "js-animation-revise-with-elapsed-time.html",
         "js-animation-easing.html",
+        "js-animation-look-up-easing-functions.html",
+        "js-animation-practice.html",
         "js-animation-libraries.html"
     ],
     [
         "performance-considerations.html",
         "performance-good-reads.html",
-        "performance-jank-free.html",
         "performance-css-triggers.html",
-        "performance-css-vs-js.html"
+        "performance-css-vs-js.html",
+        "performance-jank-free.html"
     ],
     [
         "web-animations.md",
