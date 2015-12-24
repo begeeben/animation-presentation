@@ -52,9 +52,12 @@
     ],
     [
         "web-components.html",
-        "web-components-yet.html",
-        "web-components-smart-button.html",
         "web-components-enable-web-components.html",
-        "web-components-firefox-os-tv-simulator.html"
+        "web-components-custom-elements.html",
+        "web-components-custom-elements-type-extension.html",
+        "web-components-smart-button.html",
+        "web-components-firefox-os-tv-simulator.html",
+        "web-components-practice.html",
+        "web-components-yet.html"
     ]
 ]
