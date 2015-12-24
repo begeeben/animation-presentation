@@ -1,0 +1,16 @@
+<h2>transitionend note</h2>
+
+<code>transitionend</code> event will not be fired if <code>transition-property</code> is removed before a transition finishes.
+
+<pre class="fragment">
+Workaround:<code language="javascript">
+var handler = function () {
+	// Do something after transition finishes...
+	Element.removeEventListener('transitionend', handler);
+	window.clearTimeout(timeoutFunction);
+};
+
+Element.addEventListener('transitionend', handler);
+
+var timeoutFunction = setTimeout(handler, 2000); // A timestamp that is slightly longer than the transition duration
+</code></pre>

@@ -1,3 +1,3 @@
 ##  JS Animation
 
-This is a new Markdown slide
+For complex animations with fine-grained control, physics, separate timelines etc.

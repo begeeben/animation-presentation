@@ -2,11 +2,61 @@
     "index.md",
     [
         "csstransition.html",
-        "csstransition-2.html",
-        "csstransition-3.md"
+        "csstransition-syntax.html",
+        "csstransition-shorthand.html",
+        "csstransition-example.html",
+        "csstransition-timing-function.html",
+        "csstransition-example-ease.html",
+        "csstransition-cubic-bezier.html",
+        "csstransition-cheat-sheet.html",
+        "csstransition-step.html",
+        "csstransition-example-step.html",
+        "csstransition-transitionend.html",
+        "csstransition-transitionend-example.html",
+        "csstransition-transitionend-note.html",
+        "csstransition-chaining-transitions.html"
     ],
-    "cssanimation.md",
-    "js-animation.md",
-    "web-animations.md",
-    "smart-button.md"
+    [
+        "cssanimation.html",
+        "cssanimation-shorthand.html",
+        "cssanimation-keyframes.html",
+        "cssanimation-animation-direction.html",
+        "cssanimation-animation-fill-mode.html",
+        "cssanimation-animation-play-state.html",
+        "cssanimation-multiple-animations.html",
+        "cssanimation-events.html",
+        "cssanimation-practice.html"
+    ],
+    [
+        "js-animation.md",
+        "js-animation-requestanimationframe.html",
+        "js-animation-revise-with-elapsed-time.html",
+        "js-animation-easing.html",
+        "js-animation-look-up-easing-functions.html",
+        "js-animation-practice.html",
+        "js-animation-libraries.html"
+    ],
+    [
+        "performance-considerations.html",
+        "performance-good-reads.html",
+        "performance-css-triggers.html",
+        "performance-css-vs-js.html",
+        "performance-jank-free.html"
+    ],
+    [
+        "web-animations.md",
+        "web-animations-controlling-animations.html",
+        "web-animations-can-i-use.html",
+        "web-animations-practice.html"
+    ],
+    [
+        "web-components.html",
+        "web-components-enable-web-components.html",
+        "web-components-custom-elements.html",
+        "web-components-custom-elements-type-extension.html",
+        "web-components-smart-button.html",
+        "web-components-firefox-os-tv-simulator.html",
+        "web-components-practice.html",
+        "web-components-yet.html"
+    ]
 ]
