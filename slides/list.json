@@ -45,6 +45,7 @@
         "js-animation-libraries.html"
     ],
     [
+        "performance-rendering-pipeline.html",
         "performance-considerations.html",
         "performance-good-reads.html",
         "performance-css-triggers.html",
