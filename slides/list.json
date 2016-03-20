@@ -1,6 +1,7 @@
 [
     "index.md",
     [
+        "csstransition-how-to.html",
         "csstransition.html",
         "csstransition-syntax.html",
         "csstransition-shorthand.html",
@@ -14,9 +15,11 @@
         "csstransition-transitionend.html",
         "csstransition-transitionend-example.html",
         "csstransition-transitionend-note.html",
-        "csstransition-chaining-transitions.html"
+        "csstransition-chaining-transitions.html",
+        "csstransition-new-element-transition.html"
     ],
     [
+        "cssanimation-how-to.html",
         "cssanimation.html",
         "cssanimation-shorthand.html",
         "cssanimation-keyframes.html",
@@ -25,7 +28,12 @@
         "cssanimation-animation-play-state.html",
         "cssanimation-multiple-animations.html",
         "cssanimation-events.html",
-        "cssanimation-practice.html"
+        "cssanimation-practice.html",
+        "cssanimation-slidein-zoomout.html"
+    ],
+    [
+        "cssanimation-csstransition-difference.html",
+        "cssanimation-csstransition-difference-2.html"
     ],
     [
         "js-animation.md",
@@ -55,7 +63,6 @@
         "web-components-custom-elements.html",
         "web-components-custom-elements-type-extension.html",
         "web-components-smart-button.html",
-        "web-components-firefox-os-tv-simulator.html",
         "web-components-practice.html",
         "web-components-yet.html"
     ]

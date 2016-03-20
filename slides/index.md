@@ -1,5 +1,5 @@
-## Animation, Web Components and FxOS TV
+## Animation and Web Components
 
 Yi-Fan Liao
 
-2015.Dec.25
+2016.Mar.21
